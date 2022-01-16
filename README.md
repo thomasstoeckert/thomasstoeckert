@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, there!
+
+I'm an undergraduate student studying Computer Engineering at the University of Central Florida. I'm driven by storytelling through technology in whatever form it may take, whether utilizing location-based themed entertainment, interactive exhibits, or game-engine based solutions.
+
+I've has previously worked as an Intern at Universal Creative in Orlando, working as part of the Ride and Show Performance team to program ride motion and show elements, while also developing software tools and scripts to assist in content authoring for upcoming attractions.
+
+I'm currently finishing my Bachelor's Degree, with a graduation date of May 2022. I'm currently looking for work, preferably located in Orlando, Florida, preferably with some form of themed entertainment or interactive storytelling angle.
+
+You can find more about me on my website https://thomasstoeckert.us, and feel free to contact me if you have any questions about me or my work.
 
 <!--
 **thomasstoeckert/thomasstoeckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
