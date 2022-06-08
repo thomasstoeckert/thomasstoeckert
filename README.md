@@ -2,9 +2,9 @@
 
 I'm a computer Engineer who just graduated from the University of Central Florida. I'm driven by storytelling through technology in whatever form it may take, whether utilizing location-based themed entertainment, interactive exhibits, or game-engine based solutions.
 
-I've has previously worked as an Intern at Universal Creative in Orlando, working as part of the Ride and Show Performance team to program ride motion and show elements, while also developing software tools and scripts to assist in content authoring for upcoming attractions.
+I'm currently employed as an Associate Show Programmer at Universal Creative.
 
-I'm currently looking for a full-time position, preferably located in Orlando, Florida, preferably with some form of themed entertainment or interactive storytelling angle.
+I've has previously worked as an Intern at Universal Creative in Orlando, working as part of the Ride and Show Performance team to program ride motion and show elements, while also developing software tools and scripts to assist in content authoring for upcoming attractions.
 
 You can find more about me on my website https://thomasstoeckert.us, and feel free to contact me if you have any questions about me or my work.
 
