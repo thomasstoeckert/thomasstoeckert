@@ -1,8 +1,6 @@
 ### Hello, there!
 
-I'm a computer Engineer who just graduated from the University of Central Florida. I'm driven by storytelling through technology in whatever form it may take, whether utilizing location-based themed entertainment, interactive exhibits, or game-engine based solutions.
-
-I'm currently employed as an Associate Show Programmer at Universal Creative.
+I'm a computer engineer + technical artist, currently working at Universal Creative as a Show Programmer, where I worked on various rides and attractions for Universal Epic Universe.
 
 I've has previously worked as an Intern at Universal Creative in Orlando, working as part of the Ride and Show Performance team to program ride motion and show elements, while also developing software tools and scripts to assist in content authoring for upcoming attractions.
 
